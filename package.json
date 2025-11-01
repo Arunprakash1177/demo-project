@@ -1,14 +1,15 @@
-// app.js
-const express = require('express');
-const app = express();
-
-app.get('/', (req, res) => {
-  res.json({message: 'Hello from demo-app'});
-});
-
-const port = process.env.PORT || 3000;
-app.listen(port, () => {
-  console.log(`demo-app listening on ${port}`);
-});
-
-module.exports = app;
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "Simple Express.js demo application for Jenkins CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Arun Prakash",
+  "license": "MIT"
+}
