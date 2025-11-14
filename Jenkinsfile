@@ -5,7 +5,7 @@ pipeline {
     IMAGE_NAME = "demo-app"                       // local image name
     DOCKER_REGISTRY = "docker.io"                 // Docker Hub registry
     DOCKER_REPO = "arunprakash1177/demo-app"      // full image path
-    PUSH_IMAGE = "false"                          // set to "true" to push
+    PUSH_IMAGE = "true"                          // set to "true" to push
     COMPOSE_FILE = "docker-compose.yml"
   }
 
