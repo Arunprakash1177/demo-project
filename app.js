@@ -158,9 +158,9 @@ app.get('/dashboard', (req, res) => {
       </tr>
     </thead>
     <tbody>
-      <tr><td>Arun</td><td>Way@123</td><td>arun@way.com</td><td>Chennai, India</td></tr>
-      <tr><td>John</td><td>Pass@456</td><td>john@way.com</td><td>New York, USA</td></tr>
-      <tr><td>Amy</td><td>Amy@789</td><td>amy@way.com</td><td>London, UK</td></tr>
+      <tr><td>Arunprakash</td><td>Way@123</td><td>arun@sooryodayam.shop</td><td>Chennai, India</td></tr>
+      <tr><td>sujith</td><td>Pass@456</td><td>sujith@sooryodayam.shop</td><td>New York, USA</td></tr>
+      <tr><td>Aravind</td><td>wrvjn</td><td>aravind@sooryodayam.shop</td><td>London, UK</td></tr>
     </tbody>
   </table>
 </body>
