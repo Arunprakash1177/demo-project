@@ -72,7 +72,7 @@ app.get('/', (req, res) => {
 </head>
 <body>
   <div class="login-container">
-    <h2>Login to Way.com</h2>
+    <h2>Login to sooryodayam.shop</h2>
     <form method="POST" action="/login">
       <input type="text" name="username" placeholder="Username" required>
       <input type="password" name="password" placeholder="Password" required>
