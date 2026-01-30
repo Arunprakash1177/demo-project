@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-image: url('/images/buddha.jpg');
+      background-image: url('/images/car.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -105,7 +105,7 @@ app.get('/dashboard', (req, res) => {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Dashboard - Way.com</title>
+  <title>Dashboard - Sooryodayam.shop</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -148,7 +148,7 @@ app.get('/dashboard', (req, res) => {
 </head>
 <body>
   <table>
-    <caption>User Details - Way.com</caption>
+    <caption>User Details - Sooryodayam.shop</caption>
     <thead>
       <tr>
         <th>User Name</th>
