@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Login - Way.com</title>
+  <title>Login - sooryodayam.shop</title>
   <style>
     body {
       font-family: Arial, sans-serif;
